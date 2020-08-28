@@ -1,4 +1,4 @@
-## Hola, I'm [Francisco!](https://fpalcios.com.ar) 👋
+## Hi, I'm [Francisco!](https://fpalcios.com.ar) 👋
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
@@ -20,16 +20,7 @@
 <br/>
 
 
-- 😄 
 - ⚡ Fun 
-
-
-[![Generic badge](https://img.shields.io/badge/Linkedin-Palacios-blue.svg)](https://www.linkedin.com/in/francisco-palacios1989/)
-
-
-
-
-[![GitHub Franzcod](https://img.shields.io/github/followers/Franzcod?label=follow&style=social)](https://github.com/Franzcod)
 
 
 [![website](https://img.shields.io/badge/Portfolio_Website-2648ff?style=flat-square&logo=google-chrome)](https://fpalacios.com.ar/)
