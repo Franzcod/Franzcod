@@ -1,8 +1,10 @@
 ## Hi, I'm [Francisco!](https://fpalcios.com.ar) 👋
 
+
+<div align="center">
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Franzcod&label=Views&color=blue&style=plastic" alt="Franzcod" /> </p>
+<p > <img src="https://komarev.com/ghpvc/?username=Franzcod&label=Views&color=blue&style=plastic" alt="Franzcod" /> </p>
 
 
 <a href="www.linkedin.com/in/francisco-palacios1989">
@@ -15,12 +17,10 @@
 <a href="https://instagram.com/palaciosf/">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+</div>
 
 <br/>
 
-
-- ⚡ Fun 
 
 
 [![website](https://img.shields.io/badge/Portfolio_Website-2648ff?style=flat-square&logo=google-chrome)](https://fpalacios.com.ar/)
