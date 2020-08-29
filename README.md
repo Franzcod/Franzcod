@@ -18,13 +18,14 @@
   <a href="https://instagram.com/palaciosf/">
     <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
+  
+  [![website](https://img.shields.io/badge/Portfolio_Website-2648ff?style=flat-square&logo=google-chrome)](https://fpalacios.com.ar/)
+  
 </div>
 
-<br/>
 
 
 
-[![website](https://img.shields.io/badge/Portfolio_Website-2648ff?style=flat-square&logo=google-chrome)](https://fpalacios.com.ar/)
 
 
 
