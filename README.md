@@ -1,6 +1,6 @@
 ## Hi, I'm [Francisco!](https://fpalcios.com.ar) 👋
 
-
+<div align="center">
   
   [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
@@ -20,7 +20,7 @@
   
   [![website](https://img.shields.io/badge/Portfolio_Website-2648ff?style=flat-square&logo=google-chrome)](https://fpalacios.com.ar/)
   
-
+</div>
 
 
 
