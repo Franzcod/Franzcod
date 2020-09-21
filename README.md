@@ -1,6 +1,6 @@
 ## Hi, I'm [Francisco!](https://fpalcios.com.ar) 👋
 
-<div align="center">
+
   
   [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
@@ -39,7 +39,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-</div>
+
 <a href="https://github.com/Franzcod">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franzcod&theme=light&hide_langs_below=1" />
 </a>
