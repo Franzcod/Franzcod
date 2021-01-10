@@ -8,17 +8,17 @@
 
 
   <a href="www.linkedin.com/in/francisco-palacios1989">
-    <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://github.com/Franzcod">
-    <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
 
   <a href="https://instagram.com/palaciosf/">
-    <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
   
-  [![website](https://img.shields.io/badge/Portfolio_Website-2648ff?style=flat-square&logo=google-chrome)](https://fpalacios.com.ar/)
+  [![website](https://img.shields.io/badge/Website-2648ff?style=flat-square&logo=google-chrome)](https://fpalacios.com.ar/)
   
 
 
