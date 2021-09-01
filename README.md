@@ -4,7 +4,7 @@
 <!-- - 👨‍💻 All of my projects are available at [pending](pending) -->
 
 
-- 📫 How to reach me **NicolasCardone97@gmail.com**
+- 📫 How to reach me **palacios.francisco@outlook.com**
 
 
 <h3 align="left">Connect with me:</h3>
